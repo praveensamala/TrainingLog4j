@@ -1,0 +1,8 @@
+2018-08-13 18:03:13 INFO  Sample:  ***** NEW RUN *****
+2018-08-13 18:03:13 INFO  Sample:  Starting the log messages
+2018-08-13 18:03:31 INFO  Sample:  ***** NEW RUN *****
+2018-08-13 18:03:31 INFO  Sample:  Starting the log messages
+2018-08-13 18:05:54 INFO  Sample:  ***** NEW RUN *****
+2018-08-13 18:05:54 INFO  Sample:  Starting the log messages
+2018-08-13 18:05:54 ERROR Sample:  Starting the log messages
+2018-08-13 18:05:54 WARN  Sample:  Starting the log messages
